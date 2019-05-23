@@ -15,7 +15,7 @@ Sylvestre-Alvise Rebuffi, Alexander Kolesnikov, Georg Sperl, Christoph H. Lamper
 5. **Gradient Episodic Memory for Continual Learning** [[PDF](https://arxiv.org/pdf/1706.08840.pdf)] </br>
 David Lopez-Paz, Marc'Aurelio Ranzato
 
-6. **FearNet: Brain-Inspired Model for Incremental Learning** [[PDF]()] </br>
+6. **FearNet: Brain-Inspired Model for Incremental Learning** [[PDF](https://arxiv.org/pdf/1711.10563.pdf)] </br>
 Ronald Kemker, Christopher Kanan
 
 7. **Lifelong Learning of Spatiotemporal Representations with Dual-Memory Recurrent Self-Organization** [[PDF](https://arxiv.org/pdf/1805.10966.pdf)] </br>
