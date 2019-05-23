@@ -1,4 +1,4 @@
-# Continual-Learning-Papers
+## Continual Learning / Incremental Learning / Lifelong Learning
 
 1. **Progressive Neural Networks** [[PDF](https://arxiv.org/pdf/1606.04671.pdf)] </br>
 Andrei A. Rusu, Neil C. Rabinowitz, Guillaume Desjardins, Hubert Soyer, James Kirkpatrick, Koray Kavukcuoglu, Razvan Pascanu, Raia Hadsell
@@ -32,3 +32,17 @@ Zhizhong Li, Derek Hoiem
 
 11. **Learning to Remember: A Synaptic Plasticity Driven Framework for Continual Learning** [[PDF](https://arxiv.org/pdf/1904.03137.pdf)] </br>
 Oleksiy Ostapenko, Mihai Puscas, Tassilo Klein, Patrick Jähnichen, Moin Nabi
+
+## Learning to learn / Meta-Learning / Few-shot Learning
+
+1. **Siamese Neural Networks for One-shot Image Recognition** [[PDF](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)] </br>
+Gregory Koch, Richard Zemel, Ruslan Salakhutdinov
+
+2. **Matching Networks for One Shot Learning** [[PDF](https://arxiv.org/pdf/1606.04080.pdf)] </br>
+Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra
+
+3. **Learning to Compare: Relation Network for Few-Shot Learning** [[PDF](https://arxiv.org/pdf/1711.06025.pdf)] </br>
+Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales
+
+4. **Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks** [[PDF](https://arxiv.org/pdf/1703.03400.pdf)] </br>
+Chelsea Finn, Pieter Abbeel, Sergey Levine
